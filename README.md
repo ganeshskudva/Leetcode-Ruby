@@ -17,3 +17,4 @@ Please give this repo a ⭐ if it inspires you.
 |LC #|Description|
 |:-:|:-|
 |[78](https://leetcode.com/problems/subsets/)| Subsets|
+|[82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| Remove Duplicates from Sorted List II|
