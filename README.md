@@ -12,6 +12,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)| Check if the Sentence Is Pangram|
 |[21](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists|
 |[141](https://leetcode.com/problems/linked-list-cycle/)| Linked List Cycle|
+|[20](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses|
 
 ## Medium
 |LC #|Description|
