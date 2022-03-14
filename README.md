@@ -15,6 +15,7 @@ Please give this repo a ⭐ if it inspires you.
 |[20](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses|
 |[617](https://leetcode.com/problems/merge-two-binary-trees/)| Merge Two Binary Trees|
 |[897](https://leetcode.com/problems/increasing-order-search-tree/)|  Increasing Order Search Tree|
+|[346](https://leetcode.com/problems/moving-average-from-data-stream/)|  Moving Average from Data Stream|
 
 ## Medium
 |LC #|Description|
