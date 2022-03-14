@@ -13,6 +13,8 @@ Please give this repo a ⭐ if it inspires you.
 |[21](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists|
 |[141](https://leetcode.com/problems/linked-list-cycle/)| Linked List Cycle|
 |[20](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses|
+|[617](https://leetcode.com/problems/merge-two-binary-trees/)| Merge Two Binary Trees|
+|[897](https://leetcode.com/problems/increasing-order-search-tree/)|  Increasing Order Search Tree|
 
 ## Medium
 |LC #|Description|
