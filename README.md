@@ -17,6 +17,7 @@ Please give this repo a ⭐ if it inspires you.
 |[897](https://leetcode.com/problems/increasing-order-search-tree/)|  Increasing Order Search Tree|
 |[346](https://leetcode.com/problems/moving-average-from-data-stream/)|  Moving Average from Data Stream|
 |[1748](https://leetcode.com/problems/sum-of-unique-elements/)| Sum of Unique Elements|
+|[1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| Count Negative Numbers in a Sorted Matrix|
 
 ## Medium
 |LC #|Description|
