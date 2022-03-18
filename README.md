@@ -27,6 +27,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| Remove All Adjacent Duplicates In String|
 |[206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List|
 |[496](https://leetcode.com/problems/next-greater-element-i/)| Next Greater Element I|
+|[136](https://leetcode.com/problems/single-number/)| Single Number|
 
 ## Medium
 |LC #|Description|
