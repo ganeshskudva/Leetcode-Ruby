@@ -26,6 +26,7 @@ Please give this repo a ⭐ if it inspires you.
 |[226](https://leetcode.com/problems/invert-binary-tree/)| Invert Binary Tree|
 |[1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| Remove All Adjacent Duplicates In String|
 |[206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List|
+|[496](https://leetcode.com/problems/next-greater-element-i/)| Next Greater Element I|
 
 ## Medium
 |LC #|Description|
