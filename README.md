@@ -22,6 +22,7 @@ Please give this repo a ⭐ if it inspires you.
 |[344](https://leetcode.com/problems/reverse-string/)| Reverse String|
 |[1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| Make Two Arrays Equal by Reversing Sub-arrays|
 |[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Maximum Depth of Binary Tree|
+|[977](https://leetcode.com/problems/squares-of-a-sorted-array/)| Squares of a Sorted Array|
 
 ## Medium
 |LC #|Description|
