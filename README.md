@@ -19,6 +19,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1748](https://leetcode.com/problems/sum-of-unique-elements/)| Sum of Unique Elements|
 |[1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| Count Negative Numbers in a Sorted Matrix|
 |[905](https://leetcode.com/problems/sort-array-by-parity/)| Sort Array By Parity|
+|[344](https://leetcode.com/problems/reverse-string/)| Reverse String|
 
 ## Medium
 |LC #|Description|
