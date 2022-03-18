@@ -25,6 +25,7 @@ Please give this repo a ⭐ if it inspires you.
 |[977](https://leetcode.com/problems/squares-of-a-sorted-array/)| Squares of a Sorted Array|
 |[226](https://leetcode.com/problems/invert-binary-tree/)| Invert Binary Tree|
 |[1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| Remove All Adjacent Duplicates In String|
+|[206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List|
 
 ## Medium
 |LC #|Description|
