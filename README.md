@@ -29,7 +29,7 @@ Please give this repo a ⭐ if it inspires you.
 |[496](https://leetcode.com/problems/next-greater-element-i/)| Next Greater Element I|
 |[136](https://leetcode.com/problems/single-number/)| Single Number|
 |[463](https://leetcode.com/problems/island-perimeter/)| Island Perimeter|
-|[1007](https://leetcode.com/problems/intersection-of-two-arrays/)| Intersection of Two Arrays|
+|[349](https://leetcode.com/problems/intersection-of-two-arrays/)| Intersection of Two Arrays|
 
 ## Medium
 |LC #|Description|
