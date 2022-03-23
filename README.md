@@ -42,3 +42,4 @@ Please give this repo a ⭐ if it inspires you.
 |[763](https://leetcode.com/problems/partition-labels/)| Partition Labels|
 |[1007](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| Minimum Domino Rotations For Equal Row|
 |[991](https://leetcode.com/problems/broken-calculator/)| Broken Calculator|
+|[1663](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)| Smallest String With A Given Numeric Value|
