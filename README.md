@@ -41,3 +41,4 @@ Please give this repo a ⭐ if it inspires you.
 |[316](https://leetcode.com/problems/remove-duplicate-letters/)| Remove Duplicate Letters|
 |[763](https://leetcode.com/problems/partition-labels/)| Partition Labels|
 |[1007](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| Minimum Domino Rotations For Equal Row|
+|[991](https://leetcode.com/problems/broken-calculator/)| Broken Calculator|
