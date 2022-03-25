@@ -33,6 +33,7 @@ Please give this repo a ⭐ if it inspires you.
 |[637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)| Average of Levels in Binary Tree|
 |[1002](https://leetcode.com/problems/find-common-characters/)| Find Common Characters|
 |[509](https://leetcode.com/problems/fibonacci-number/)| Fibonacci Number|
+|[766](https://leetcode.com/problems/toeplitz-matrix/)| Toeplitz Matrix|
 
 ## Medium
 |LC #|Description|
