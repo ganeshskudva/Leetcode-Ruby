@@ -34,6 +34,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1002](https://leetcode.com/problems/find-common-characters/)| Find Common Characters|
 |[509](https://leetcode.com/problems/fibonacci-number/)| Fibonacci Number|
 |[766](https://leetcode.com/problems/toeplitz-matrix/)| Toeplitz Matrix|
+|[704](https://leetcode.com/problems/binary-search/)| Binary Search|
 
 ## Medium
 |LC #|Description|
