@@ -71,6 +71,7 @@ Please give this repo a ⭐ if it inspires you.
 |[535](https://leetcode.com/problems/encode-and-decode-tinyurl/)| Encode and Decode TinyURL|
 |[284](https://leetcode.com/problems/peeking-iterator/)| Peeking Iterator|
 |[341](https://leetcode.com/problems/flatten-nested-list-iterator/)| Flatten Nested List Iterator|
+|[216](https://leetcode.com/problems/combination-sum-iii/)| Combination Sum III|
 
 ## Hard
 |LC #|Description|
