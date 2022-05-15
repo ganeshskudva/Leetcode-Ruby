@@ -74,6 +74,7 @@ Please give this repo a ⭐ if it inspires you.
 |[216](https://leetcode.com/problems/combination-sum-iii/)| Combination Sum III|
 |[47](https://leetcode.com/problems/permutations-ii/)| Permutations II|
 |[743](https://leetcode.com/problems/network-delay-time/)| Network Delay Time|
+|[1302](https://leetcode.com/problems/deepest-leaves-sum/)| Deepest Leaves Sum|
 
 ## Hard
 |LC #|Description|
