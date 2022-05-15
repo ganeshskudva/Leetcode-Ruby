@@ -73,6 +73,7 @@ Please give this repo a ⭐ if it inspires you.
 |[341](https://leetcode.com/problems/flatten-nested-list-iterator/)| Flatten Nested List Iterator|
 |[216](https://leetcode.com/problems/combination-sum-iii/)| Combination Sum III|
 |[47](https://leetcode.com/problems/permutations-ii/)| Permutations II|
+|[743](https://leetcode.com/problems/network-delay-time/)| Network Delay Time|
 
 ## Hard
 |LC #|Description|
