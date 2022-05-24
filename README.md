@@ -80,3 +80,4 @@ Please give this repo a ⭐ if it inspires you.
 |LC #|Description|
 |:-:|:-|
 |[410](https://leetcode.com/problems/split-array-largest-sum/)| Split Array Largest Sum|
+|[32](https://leetcode.com/problems/longest-valid-parentheses/)| Longest Valid Parentheses|
