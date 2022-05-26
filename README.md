@@ -47,6 +47,7 @@ Please give this repo a ⭐ if it inspires you.
 |[700](https://leetcode.com/problems/search-in-a-binary-search-tree/)| Search in a Binary Search Tree|
 |[706](https://leetcode.com/problems/design-hashmap/)| Design HashMap|
 |[844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare|
+|[191](https://leetcode.com/problems/number-of-1-bits/)| Number of 1 Bits|
 
 ## Medium
 |LC #|Description|
