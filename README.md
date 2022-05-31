@@ -76,6 +76,7 @@ Please give this repo a ⭐ if it inspires you.
 |[47](https://leetcode.com/problems/permutations-ii/)| Permutations II|
 |[743](https://leetcode.com/problems/network-delay-time/)| Network Delay Time|
 |[1302](https://leetcode.com/problems/deepest-leaves-sum/)| Deepest Leaves Sum|
+|[1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)| Check If a String Contains All Binary Codes of Size K|
 
 ## Hard
 |LC #|Description|
