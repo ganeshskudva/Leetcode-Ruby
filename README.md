@@ -49,6 +49,7 @@ Please give this repo a ⭐ if it inspires you.
 |[844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare|
 |[191](https://leetcode.com/problems/number-of-1-bits/)| Number of 1 Bits|
 |[1480](https://leetcode.com/problems/running-sum-of-1d-array/)| Running Sum of 1d Array|
+|[160](https://leetcode.com/problems/intersection-of-two-linked-lists/)| Intersection of Two Linked Lists|
 
 ## Medium
 |LC #|Description|
