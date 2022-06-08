@@ -51,6 +51,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1480](https://leetcode.com/problems/running-sum-of-1d-array/)| Running Sum of 1d Array|
 |[160](https://leetcode.com/problems/intersection-of-two-linked-lists/)| Intersection of Two Linked Lists|
 |[88](https://leetcode.com/problems/merge-sorted-array/)| Merge Sorted Array|
+|[1332](https://leetcode.com/problems/remove-palindromic-subsequences/)| Remove Palindromic Subsequences|
 
 ## Medium
 |LC #|Description|
