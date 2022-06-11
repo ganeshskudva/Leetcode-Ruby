@@ -82,6 +82,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1302](https://leetcode.com/problems/deepest-leaves-sum/)| Deepest Leaves Sum|
 |[1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)| Check If a String Contains All Binary Codes of Size K|
 |[167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| Two Sum II - Input Array Is Sorted|
+|[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters|
 
 ## Hard
 |LC #|Description|
