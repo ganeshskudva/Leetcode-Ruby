@@ -52,6 +52,7 @@ Please give this repo a ⭐ if it inspires you.
 |[160](https://leetcode.com/problems/intersection-of-two-linked-lists/)| Intersection of Two Linked Lists|
 |[88](https://leetcode.com/problems/merge-sorted-array/)| Merge Sorted Array|
 |[1332](https://leetcode.com/problems/remove-palindromic-subsequences/)| Remove Palindromic Subsequences|
+|[1925](https://leetcode.com/problems/count-square-sum-triples/)| Count Square Sum Triples|
 
 ## Medium
 |LC #|Description|
