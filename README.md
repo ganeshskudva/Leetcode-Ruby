@@ -87,6 +87,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1658](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)| Minimum Operations to Reduce X to Zero|
 |[1695](https://leetcode.com/problems/maximum-erasure-value/)| Maximum Erasure Value|
 |[120](https://leetcode.com/problems/triangle/)| Triangle|
+|[583](https://leetcode.com/problems/delete-operation-for-two-strings/)| Delete Operation for Two Strings|
 
 ## Hard
 |LC #|Description|
