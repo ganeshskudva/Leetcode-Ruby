@@ -89,6 +89,7 @@ Please give this repo a ⭐ if it inspires you.
 |[120](https://leetcode.com/problems/triangle/)| Triangle|
 |[583](https://leetcode.com/problems/delete-operation-for-two-strings/)| Delete Operation for Two Strings|
 |[1048](https://leetcode.com/problems/longest-string-chain/)| Longest String Chain|
+|[5](https://leetcode.com/problems/longest-palindromic-substring/)| Longest Palindromic Substring|
 
 ## Hard
 |LC #|Description|
