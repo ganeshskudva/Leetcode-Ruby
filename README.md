@@ -90,6 +90,7 @@ Please give this repo a ⭐ if it inspires you.
 |[583](https://leetcode.com/problems/delete-operation-for-two-strings/)| Delete Operation for Two Strings|
 |[1048](https://leetcode.com/problems/longest-string-chain/)| Longest String Chain|
 |[5](https://leetcode.com/problems/longest-palindromic-substring/)| Longest Palindromic Substring|
+|[820](https://leetcode.com/problems/short-encoding-of-words/)| Short Encoding of Words|
 
 ## Hard
 |LC #|Description|
