@@ -53,6 +53,7 @@ Please give this repo a ⭐ if it inspires you.
 |[88](https://leetcode.com/problems/merge-sorted-array/)| Merge Sorted Array|
 |[1332](https://leetcode.com/problems/remove-palindromic-subsequences/)| Remove Palindromic Subsequences|
 |[1925](https://leetcode.com/problems/count-square-sum-triples/)| Count Square Sum Triples|
+|[859](https://leetcode.com/problems/buddy-strings/)| Buddy Strings|
 
 ## Medium
 |LC #|Description|
