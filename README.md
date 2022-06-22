@@ -91,6 +91,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1048](https://leetcode.com/problems/longest-string-chain/)| Longest String Chain|
 |[5](https://leetcode.com/problems/longest-palindromic-substring/)| Longest Palindromic Substring|
 |[820](https://leetcode.com/problems/short-encoding-of-words/)| Short Encoding of Words|
+|[215](https://leetcode.com/problems/kth-largest-element-in-an-array/)| Kth Largest Element in an Array|
 
 ## Hard
 |LC #|Description|
