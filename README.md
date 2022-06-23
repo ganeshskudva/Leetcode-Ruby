@@ -94,6 +94,7 @@ Please give this repo a ⭐ if it inspires you.
 |[820](https://leetcode.com/problems/short-encoding-of-words/)| Short Encoding of Words|
 |[215](https://leetcode.com/problems/kth-largest-element-in-an-array/)| Kth Largest Element in an Array|
 |[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)| Dot Product of Two Sparse Vectors|
+|[339](https://leetcode.com/problems/nested-list-weight-sum/)| Nested List Weight Sum|
 
 ## Hard
 |LC #|Description|
