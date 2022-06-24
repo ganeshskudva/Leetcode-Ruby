@@ -96,6 +96,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)| Dot Product of Two Sparse Vectors|
 |[339](https://leetcode.com/problems/nested-list-weight-sum/)| Nested List Weight Sum|
 |[1382](https://leetcode.com/problems/balance-a-binary-search-tree/)| Balance a Binary Search Tree|
+|[1762](https://leetcode.com/problems/buildings-with-an-ocean-view/)| Buildings With an Ocean View|
 
 ## Hard
 |LC #|Description|
