@@ -95,6 +95,7 @@ Please give this repo a ⭐ if it inspires you.
 |[215](https://leetcode.com/problems/kth-largest-element-in-an-array/)| Kth Largest Element in an Array|
 |[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)| Dot Product of Two Sparse Vectors|
 |[339](https://leetcode.com/problems/nested-list-weight-sum/)| Nested List Weight Sum|
+|[1382](https://leetcode.com/problems/balance-a-binary-search-tree/)| Balance a Binary Search Tree|
 
 ## Hard
 |LC #|Description|
