@@ -98,6 +98,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1382](https://leetcode.com/problems/balance-a-binary-search-tree/)| Balance a Binary Search Tree|
 |[1762](https://leetcode.com/problems/buildings-with-an-ocean-view/)| Buildings With an Ocean View|.
 |[665](https://leetcode.com/problems/non-decreasing-array/)| Non-decreasing Array|
+|[1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)| Maximum Points You Can Obtain from Cards|
 
 ## Hard
 |LC #|Description|
