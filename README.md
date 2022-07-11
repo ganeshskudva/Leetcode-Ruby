@@ -99,6 +99,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1762](https://leetcode.com/problems/buildings-with-an-ocean-view/)| Buildings With an Ocean View|.
 |[665](https://leetcode.com/problems/non-decreasing-array/)| Non-decreasing Array|
 |[1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)| Maximum Points You Can Obtain from Cards|
+|[199](https://leetcode.com/problems/binary-tree-right-side-view/)| Binary Tree Right Side View|
 
 ## Hard
 |LC #|Description|
