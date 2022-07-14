@@ -1,39 +1,26 @@
-/**
- * Definition for a binary tree node.
- * type TreeNode struct {
- *     Val int
- *     Left *TreeNode
- *     Right *TreeNode
- * }
- */
-func buildTree(preorder []int, inorder []int) *TreeNode {
-	if len(preorder) == 0 || len(inorder) == 0 {
-		return nil
-	}
+# @param {Integer[]} preorder
+# @param {Integer[]} inorder
+# @return {TreeNode}
+def build_tree(preorder, inorder)
+  return nil if preorder.empty? || inorder.empty?
 
-	mp := make(map[int]int)
-	for i := range inorder {
-		mp[inorder[i]] = i
-	}
+  mp = {}
+  (0..inorder.size - 1).each do |i|
+    mp[inorder[i]] = i
+  end
 
-	return solve(preorder, inorder, mp, 0, len(preorder)-1, 0, len(inorder)-1)
-}
+  solve(preorder, inorder, mp, 0, preorder.size - 1, 0, inorder.size - 1)
+end
 
-func solve(preorder, inorder []int, mp map[int]int, preStart, preEnd, inStart, inEnd int) *TreeNode {
-	if preStart > preEnd || inStart > inEnd {
-		return nil
-	}
+def solve(preorder, inorder, mp, pre_start, pre_end, in_start, in_end)
+  return nil if pre_start > pre_end || in_start > in_end
 
-	root := &TreeNode{
-		Val:   preorder[preStart],
-		Left:  nil,
-		Right: nil,
-	}
-	inRoot := mp[root.Val]
-	numLeft := inRoot - inStart
+  root = TreeNode.new(preorder[pre_start])
+  in_root = mp[root.val]
+  num_left = in_root - in_start
 
-	root.Left = solve(preorder, inorder, mp, preStart+1, preStart+numLeft, inStart, inRoot-1)
-	root.Right = solve(preorder, inorder, mp, preStart+numLeft+1, preEnd, inRoot+1, inEnd)
+  root.left = solve(preorder, inorder, mp, pre_start + 1, pre_start + num_left, in_start, in_root - 1)
+  root.right = solve(preorder, inorder, mp, pre_start + num_left + 1, pre_end, in_root + 1, in_end)
 
-	return root
-}
+  root
+end
