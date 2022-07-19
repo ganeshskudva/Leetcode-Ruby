@@ -54,6 +54,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1332](https://leetcode.com/problems/remove-palindromic-subsequences/)| Remove Palindromic Subsequences|
 |[1925](https://leetcode.com/problems/count-square-sum-triples/)| Count Square Sum Triples|
 |[859](https://leetcode.com/problems/buddy-strings/)| Buddy Strings|
+|[118](https://leetcode.com/problems/pascals-triangle/)| Pascal's Triangle|
 
 ## Medium
 |LC #|Description|
