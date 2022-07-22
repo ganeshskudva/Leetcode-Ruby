@@ -104,6 +104,7 @@ Please give this repo a ⭐ if it inspires you.
 |[102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| Binary Tree Level Order Traversal|
 |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Construct Binary Tree from Preorder and Inorder Traversal|
 |[92](https://leetcode.com/problems/reverse-linked-list-ii/)| Reverse Linked List II|
+|[86](https://leetcode.com/problems/partition-list/)| Partition List|
 
 ## Hard
 |LC #|Description|
