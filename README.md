@@ -105,6 +105,7 @@ Please give this repo a ⭐ if it inspires you.
 |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Construct Binary Tree from Preorder and Inorder Traversal|
 |[92](https://leetcode.com/problems/reverse-linked-list-ii/)| Reverse Linked List II|
 |[86](https://leetcode.com/problems/partition-list/)| Partition List|
+|[34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Find First and Last Position of Element in Sorted Array|
 
 ## Hard
 |LC #|Description|
