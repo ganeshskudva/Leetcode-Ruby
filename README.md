@@ -108,6 +108,7 @@ Please give this repo a ⭐ if it inspires you.
 |[114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| Flatten Binary Tree to Linked List|
 |[86](https://leetcode.com/problems/partition-list/)| Partition List|
 |[34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Find First and Last Position of Element in Sorted Array|
+|[890](https://leetcode.com/problems/find-and-replace-pattern/)| Find and Replace Pattern|
 
 ## Hard
 |LC #|Description|
