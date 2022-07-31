@@ -109,6 +109,7 @@ Please give this repo a ⭐ if it inspires you.
 |[86](https://leetcode.com/problems/partition-list/)| Partition List|
 |[34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Find First and Last Position of Element in Sorted Array|
 |[890](https://leetcode.com/problems/find-and-replace-pattern/)| Find and Replace Pattern|
+|[307](https://leetcode.com/problems/range-sum-query-mutable/)| Range Sum Query - Mutable|
 
 ## Hard
 |LC #|Description|
