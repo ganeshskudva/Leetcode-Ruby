@@ -111,6 +111,7 @@ Please give this repo a ⭐ if it inspires you.
 |[890](https://leetcode.com/problems/find-and-replace-pattern/)| Find and Replace Pattern|
 |[307](https://leetcode.com/problems/range-sum-query-mutable/)| Range Sum Query - Mutable|
 |[240](https://leetcode.com/problems/search-a-2d-matrix-ii/)| Search a 2D Matrix II|
+|[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|
 
 ## Hard
 |LC #|Description|
