@@ -55,6 +55,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1925](https://leetcode.com/problems/count-square-sum-triples/)| Count Square Sum Triples|
 |[859](https://leetcode.com/problems/buddy-strings/)| Buddy Strings|
 |[118](https://leetcode.com/problems/pascals-triangle/)| Pascal's Triangle|
+|[557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| Reverse Words in a String III|
 
 ## Medium
 |LC #|Description|
