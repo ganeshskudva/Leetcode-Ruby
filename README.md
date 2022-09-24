@@ -114,6 +114,7 @@ Please give this repo a ⭐ if it inspires you.
 |[240](https://leetcode.com/problems/search-a-2d-matrix-ii/)| Search a 2D Matrix II|
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|
 |[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| Pseudo-Palindromic Paths in a Binary Tree|
+|[113](https://leetcode.com/problems/path-sum-ii/)| Path Sum II|
 
 ## Hard
 |LC #|Description|
