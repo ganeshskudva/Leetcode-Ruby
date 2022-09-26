@@ -115,6 +115,7 @@ Please give this repo a ⭐ if it inspires you.
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths|
 |[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| Pseudo-Palindromic Paths in a Binary Tree|
 |[113](https://leetcode.com/problems/path-sum-ii/)| Path Sum II|
+|[622](https://leetcode.com/problems/design-circular-queue/)| Design Circular Queue|
 
 ## Hard
 |LC #|Description|
