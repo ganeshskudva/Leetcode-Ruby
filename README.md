@@ -56,6 +56,7 @@ Please give this repo a ⭐ if it inspires you.
 |[859](https://leetcode.com/problems/buddy-strings/)| Buddy Strings|
 |[118](https://leetcode.com/problems/pascals-triangle/)| Pascal's Triangle|
 |[557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| Reverse Words in a String III|
+|[1137](https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan&id=dynamic-programming-i)| N-th Tribonacci Number|
 
 ## Medium
 |LC #|Description|
