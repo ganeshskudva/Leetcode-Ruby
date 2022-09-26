@@ -117,6 +117,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| Pseudo-Palindromic Paths in a Binary Tree|
 |[113](https://leetcode.com/problems/path-sum-ii/)| Path Sum II|
 |[622](https://leetcode.com/problems/design-circular-queue/)| Design Circular Queue|
+|[990](https://leetcode.com/problems/satisfiability-of-equality-equations/)| Satisfiability of Equality Equations|
 
 ## Hard
 |LC #|Description|
