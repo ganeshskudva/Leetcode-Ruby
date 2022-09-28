@@ -118,6 +118,7 @@ Please give this repo a ⭐ if it inspires you.
 |[113](https://leetcode.com/problems/path-sum-ii/)| Path Sum II|
 |[622](https://leetcode.com/problems/design-circular-queue/)| Design Circular Queue|
 |[990](https://leetcode.com/problems/satisfiability-of-equality-equations/)| Satisfiability of Equality Equations|
+|[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Remove Nth Node From End of List|
 
 ## Hard
 |LC #|Description|
