@@ -120,6 +120,7 @@ Please give this repo a ⭐ if it inspires you.
 |[990](https://leetcode.com/problems/satisfiability-of-equality-equations/)| Satisfiability of Equality Equations|
 |[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Remove Nth Node From End of List|
 |[658](https://leetcode.com/problems/find-k-closest-elements/description/)| Find K Closest Elements|
+|[91](https://leetcode.com/problems/decode-ways/description/)| Decode Ways|
 
 ## Hard
 |LC #|Description|
