@@ -123,6 +123,7 @@ Please give this repo a ⭐ if it inspires you.
 |[91](https://leetcode.com/problems/decode-ways/description/)| Decode Ways|
 |[1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)| Minimum Time to Make Rope Colorful|
 |[16](https://leetcode.com/problems/3sum-closest/description/)| 3Sum Closest|
+|[1328](https://leetcode.com/problems/break-a-palindrome/description/)| Break a Palindrome|
 
 ## Hard
 |LC #|Description|
