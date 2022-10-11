@@ -125,6 +125,7 @@ Please give this repo a ⭐ if it inspires you.
 |[16](https://leetcode.com/problems/3sum-closest/description/)| 3Sum Closest|
 |[1328](https://leetcode.com/problems/break-a-palindrome/)| Break a Palindrome|
 |[653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| Two Sum IV - Input is a BST|
+|[334](https://leetcode.com/problems/increasing-triplet-subsequence/)| Increasing Triplet Subsequence|
 
 ## Hard
 |LC #|Description|
