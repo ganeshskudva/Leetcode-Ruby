@@ -127,6 +127,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1328](https://leetcode.com/problems/break-a-palindrome/)| Break a Palindrome|
 |[653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| Two Sum IV - Input is a BST|
 |[334](https://leetcode.com/problems/increasing-triplet-subsequence/)| Increasing Triplet Subsequence|
+|[2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| Delete the Middle Node of a Linked List|
 
 ## Hard
 |LC #|Description|
