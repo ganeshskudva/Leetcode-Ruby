@@ -59,6 +59,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1137](https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan&id=dynamic-programming-i)| N-th Tribonacci Number|
 |[976](https://leetcode.com/problems/largest-perimeter-triangle/)| Largest Perimeter Triangle|
 |[219](https://leetcode.com/problems/contains-duplicate-ii/)| Contains Duplicate II|
+|[645](https://leetcode.com/problems/set-mismatch/)| Set Mismatch|
 
 ## Medium
 |LC #|Description|
