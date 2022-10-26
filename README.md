@@ -133,6 +133,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| Delete the Middle Node of a Linked List|
 |[38](https://leetcode.com/problems/count-and-say/)| Count and Say|
 |[1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)| Maximum Length of a Concatenated String with Unique Characters|
+|[523](https://leetcode.com/problems/continuous-subarray-sum/)| Continuous Subarray Sum|
 
 ## Hard
 |LC #|Description|
