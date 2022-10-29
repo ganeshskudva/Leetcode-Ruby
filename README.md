@@ -143,3 +143,4 @@ Please give this repo a ⭐ if it inspires you.
 |[32](https://leetcode.com/problems/longest-valid-parentheses/)| Longest Valid Parentheses|
 |[968](https://leetcode.com/problems/binary-tree-cameras/)| Binary Tree Cameras|
 |[76](https://leetcode.com/problems/minimum-window-substring/)| Minimum Window Substring|
+|[2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)| Earliest Possible Day of Full Bloom|
