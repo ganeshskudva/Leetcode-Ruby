@@ -61,6 +61,7 @@ Please give this repo a ⭐ if it inspires you.
 |[219](https://leetcode.com/problems/contains-duplicate-ii/)| Contains Duplicate II|
 |[645](https://leetcode.com/problems/set-mismatch/)| Set Mismatch|
 |[1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)| Check If Two String Arrays are Equivalent|
+|[1929](https://leetcode.com/problems/concatenation-of-array/)| Concatenation of Array|
 
 ## Medium
 |LC #|Description|
